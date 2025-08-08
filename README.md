@@ -113,3 +113,14 @@ For OpenAI: openai
 
 For local/ollama usage you may run subprocess calls — no extra pip package required here.
 If you want OpenAI in the agent, add openai to requirements.
+
+Install spaCy model (required)
+Run once in your terminal:
+
+bash
+Copy
+Edit
+python -m pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+If you add openai then pip install openai as needed.
+
