@@ -1,3 +1,4 @@
+#Load JSON rules and run regex checks.
 # utils/rules.py
 import json
 import re
