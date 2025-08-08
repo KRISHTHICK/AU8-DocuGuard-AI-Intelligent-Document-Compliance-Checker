@@ -1,0 +1,24 @@
+{
+  "pii_patterns": {
+    "email": "\\b[\\w.-]+@[\\w.-]+\\.\\w{2,}\\b",
+    "us_phone": "\\b\\(?\\d{3}\\)?[-.\\s]?\\d{3}[-.\\s]?\\d{4}\\b",
+    "ssn": "\\b\\d{3}-\\d{2}-\\d{4}\\b",
+    "credit_card": "\\b(?:\\d[ -]*?){13,16}\\b"
+  },
+  "policy_keywords": [
+    "GDPR",
+    "HIPAA",
+    "confidential",
+    "non-disclosure",
+    "personal data",
+    "sensitive data",
+    "PII",
+    "proprietary"
+  ],
+  "suspicious_terms": [
+    "password",
+    "api_key",
+    "secret",
+    "credentials"
+  ]
+}
