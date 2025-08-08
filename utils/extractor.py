@@ -1,3 +1,4 @@
+#Extract text from PDF, DOCX or TXT.
 # utils/extractor.py
 import fitz  # PyMuPDF
 import docx2txt
