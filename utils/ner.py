@@ -1,3 +1,4 @@
+#spaCy NER + simple entity aggregator.
 # utils/ner.py
 import spacy
 from collections import defaultdict
