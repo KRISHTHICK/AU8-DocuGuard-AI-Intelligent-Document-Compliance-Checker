@@ -1,3 +1,4 @@
+#Create rules/rules.json — these rules are used for fast checks. Edit or add rules later.
 {
   "pii_patterns": {
     "email": "\\b[\\w.-]+@[\\w.-]+\\.\\w{2,}\\b",
