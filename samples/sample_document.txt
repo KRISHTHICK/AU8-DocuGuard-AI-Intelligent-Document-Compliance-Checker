@@ -1,0 +1,11 @@
+Meeting Minutes: Project Phoenix
+Date: 2025-08-01
+
+Participants: Alice (alice@example.com), Bob (bob@example.com)
+
+Notes:
+- We will comply with GDPR and update the data retention policy.
+- Please do not include passwords or API_KEY in docs.
+- Contact: support@example.com
+- SSN sample: 123-45-6789
+- Card sample: 4111 1111 1111 1111
