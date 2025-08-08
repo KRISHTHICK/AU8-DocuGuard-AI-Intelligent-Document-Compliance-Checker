@@ -1,0 +1,9 @@
+streamlit
+python-docx
+PyMuPDF
+spacy
+pandas
+pdfkit
+Jinja2
+python-dotenv
+requests
